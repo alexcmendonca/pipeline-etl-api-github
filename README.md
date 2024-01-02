@@ -1,4 +1,4 @@
-# Pipeline de dados: combinando Python e Orientação a Objeto
+# Pipeline ETL utilizando a biblioteca Requests do Python e Integração com API do GitHub
 
 ## 💡Objetivos
 Projeto que utiliza a biblioteca requests para realizar requisições HTTP dos tipos GET, POST, PUT e DELETE. O objetivo é extrair e transformar dados no formato JSON, interagindo com vários endpoints. Abordaremos os status_codes, métodos de autenticação e técnicas de paginação na API do GitHub. Adicionalmente, foi explorada a habilidade de estruturar um pipeline eficiente através da organização em classes e métodos.
@@ -6,7 +6,7 @@ Projeto que utiliza a biblioteca requests para realizar requisições HTTP dos t
 ## 🖥️Desafios do Projeto
 Coletar informações sobre as linguagens de programação empregadas por renomadas empresas, tais como Amazon, Spotify, Netflix e Apple, por meio dos repositórios individuais dessas organizações no GitHub. Para executar esse projeto, foi desenvolvido um pipeline ETL composto pelas fases de extração, transformação e carga (Extract, Transform, Load). A implementação deste processo ETL envolveu o uso da biblioteca Requests do Python, além da interação com a API do GitHub. Através dessa API, acessamos dados relativos às linguagens de programação adotadas por essas empresas em seus respectivos projetos.
 
-## 📄Atividades Realizadas
+## 📄Conhecimentos Desenvolvidos
 |Atividades|Realizadas |
 |----------|-----------|
 Trabalhar no WSL | Configurar um ambiente virtual |
